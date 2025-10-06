@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "3 Idiots",
+    "genre": "Comedy, Drama",
+    "release_date": "2009",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+    "director": "Rajkumar Hirani",
+    "cast": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "title": "Yeh Jawani Hai Deewani",
+    "genre": "Romance, Drama",
+    "release_date": "2013",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/15/Yeh_jawani_hai_deewani.jpg",
+    "director": "Ayan Mukerji",
+    "cast": ["Ranbir Kapoor", "Deepika Padukone", "Aditya Roy Kapur"],
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "Sanam Teri Kasam",
+    "genre": "Drama",
+    "release_date": "2016",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/72/Sanam_Teri_Kasam_2016.jpeg",
+    "director": "Radhika Rao, Vinay Sapru",
+    "cast": ["Harshvardhan Rane", "Mawra Hocane"],
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "title": "Housefull 4",
+    "genre": "Comedy, Drama",
+    "release_date": "2019",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3c/Housefull_4_poster.jpg",
+    "director": "Farhad Samji",
+    "cast": ["Akshay Kumar", "Riteish Deshmukh", "Kriti Sanon"],
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "genre": "Romance, Drama",
+    "release_date": "1995",
+    "poster": "/Images/dilwale.jpg",
+    "director": "Aditya Chopra",
+    "cast": ["Shah Rukh Khan", "Kajol"],
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Zindagi Na Milegi Dobara",
+    "genre": "Adventure, Drama",
+    "release_date": "2011",
+    "poster": "/Images/jindagi na milegi.jpg",
+    "director": "Zoya Akhtar",
+    "cast": ["Hrithik Roshan", "Farhan Akhtar", "Abhay Deol"],
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "Gully Boy",
+    "genre": "Drama, Music",
+    "release_date": "2019",
+    "poster": "/Images/gully.boy.jpg",
+    "director": "Zoya Akhtar",
+    "cast": ["Ranveer Singh", "Alia Bhatt"],
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "Dangal",
+    "genre": "Biography, Drama, Sport",
+    "release_date": "2016",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg",
+    "director": "Nitesh Tiwari",
+    "cast": ["Aamir Khan", "Sanya Malhotra", "Fatima Sana Shaikh"],
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "title": "Shershaah",
+    "genre": "Biography, Action, Drama",
+    "release_date": "2021",
+    "poster": "/Images/Shershaah (2021).jpg",
+    "director": "Vishnuvardhan",
+    "cast": ["Sidharth Malhotra", "Kiara Advani"],
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "title": "Chhichhore",
+    "genre": "Comedy, Drama",
+    "release_date": "2019",
+    "poster": "/Images/movie10.jpg",
+    "director": "Nitesh Tiwari",
+    "cast": ["Sushant Singh Rajput", "Shraddha Kapoor", "Varun Sharma"],
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "title": "Kal Ho Naa Ho",
+    "genre": "Romance, Drama",
+    "release_date": "2003",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Kal_Ho_Naa_Ho.jpg",
+    "director": "Nikhil Advani",
+    "cast": ["Shah Rukh Khan", "Preity Zinta", "Saif Ali Khan"],
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "title": "Baahubali: The Beginning",
+    "genre": "Action, Drama",
+    "release_date": "2015",
+    "poster": "/Images/bahubali.jpg_large",
+    "director": "S.S. Rajamouli",
+    "cast": ["Prabhas", "Rana Daggubati", "Anushka Shetty"],
+    "reviews": []
+  }
+]
